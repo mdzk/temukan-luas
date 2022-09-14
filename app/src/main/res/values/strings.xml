@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Temukan Luas!</string>
+    <string name="calculate">Hitung</string>
+    <string name="result">Hasil</string>
+    <string name="alas">Alas</string>
+    <string name="tinggi">Tinggi</string>
+</resources>
